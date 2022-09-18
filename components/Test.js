@@ -9,6 +9,7 @@ class Test extends React.Component{
         return(
             <View>
                 <Text>Hello world</Text>
+                <Text>Hello world again</Text>
             </View>
         )
     }
